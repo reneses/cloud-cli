@@ -1,0 +1,12 @@
+[aws]
+aws_access_key_id =
+aws_secret_access_key =
+aws_region = eu-west-1
+
+[openstack]
+openstack_user =
+openstack_password =
+openstack_url =
+
+[general]
+default_alert_email =
