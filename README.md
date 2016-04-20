@@ -28,13 +28,16 @@ The original specifications of the assignment are included in the `assignment.pd
 - Boto uses its own [configuration file](boto config file)
 - In addition to it, the program has its own config file:
 
-1. First, create a `config.ini` file from the model and edit it:
+
+First, create a `config.ini` file from the model and edit it:
+
 ```
 cp config.ini.sample config.ini
 nano config.ini
 ```
 
-2. Complete the configuration
+Then, complete the configuration
+
 ```
 [aws]
 aws_access_key_id =
